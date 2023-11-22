@@ -9,7 +9,7 @@ def FetchData(file):
 def TransformAirQuality(file,column):
     extract_data = FetchData(file)
     df = pd.DataFrame(extract_data)
-    air_df = df[df['State'] == 'Bavaria'].sort_values(by='Station code', ascending=True).reset_index(drop=True)
+    air_df = df[df['State / Measuring network'] == 'Bavaria'].sort_values(by='Station code', ascending=True).reset_index(drop=True)
     if column:
         air_df = air_df.drop(columns='Number of daily mean values above 50 µg/m³')
         air_df = air_df.rename(columns={'Annual mean value in µg/m³': 'Annual P10 mean value in µg/m³'})
@@ -32,9 +32,10 @@ def Load(df, table):
     df.to_sql(table, engine, if_exists="replace")
 
 def main():
-    airquality_p2_file = "./Annual-tabulation_Particulate matter_2022_2.5.csv"
-    airquality_p10_file = "./Annual-tabulation_Particulate matter_2022_10.csv"
-    hospital_tb_file = "./genesis_destatis_health_ICD-10.csv"
+    airquality_p2_file = "https://www.umweltbundesamt.de/api/air_data/v3/annualbalances/csv?component=9&year=2022&lang=en"
+    airquality_p10_file = "https://www.umweltbundesamt.de/api/air_data/v3/annualbalances/csv?component=1&year=2022&lang=en"
+    file_id = '1_foIecAE8BjeWrT_frgy_FZg_Yz6efsm'
+    hospital_tb_file = f'https://drive.google.com/uc?id={file_id}'
     columns = {
     "Jahr" : "Year",
     "Bundesländer" : "State",
@@ -43,7 +44,7 @@ def main():
     data_p2 = TransformAirQuality(airquality_p2_file, False)
     data_p10 = TransformAirQuality(airquality_p10_file, True)
     data_hospital = TransformHospital(hospital_tb_file, columns)
-    merged_df = pd.merge(data_p2, data_p10, on=["State","Station code", "Station name", "Station setting", "Station type"], how='inner')
+    merged_df = pd.merge(data_p2, data_p10, on=["State / Measuring network","Station code", "Station name", "Station setting", "Station type"], how='inner')
 
     Load(merged_df, "Airquality")
     Load(data_hospital, "Hospital")

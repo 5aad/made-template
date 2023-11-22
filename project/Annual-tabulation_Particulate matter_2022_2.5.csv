@@ -1,0 +1,250 @@
+﻿"State";"Station code";"Station name";"Station setting";"Station type";"Annual mean value in µg/m³"
+Brandenburg;DEBB112;Wildau;"suburban area";background;10
+Saxony;DESN130;Liebschützberg;"rural secluded";background;8.2
+Brandenburg;DEBB111;Elsterwerda;"urban area";background;11
+"North Rhine-Westphalia";DENW405;Wesel-Obrighoven;"rural near town";background;10
+Brandenburg;DEBB110;Dallgow-Döberitz;"suburban area";background;9.5
+UBA;DEUB005;Waldhof;"rural area";background;7.3
+Thuringia;DETH117;"Erfurt Bautzener Weg";"suburban area";background;9.1
+Thuringia;DETH093;"Weimar Schwanseestr.";"urban area";background;9.1
+Thuringia;DETH061;Hummelshain;"rural secluded";background;7.1
+Thuringia;DETH041;"Jena Dammstr.";"urban area";background;9.1
+Thuringia;DETH036;"Greiz Mollbergstr.";"urban area";background;10
+Thuringia;DETH020;"Erfurt Krämpferstr.";"urban area";background;8.9
+Thuringia;DETH018;Nordhausen;"urban area";background;9.5
+Thuringia;DETH013;"Eisenach Werneburgstr.";"urban area";background;8.2
+Thuringia;DETH011;"Altenburg Theaterplatz";"urban area";background;8.5
+Thuringia;DETH005;Saalfeld;"urban area";background;10
+Saxony-Anhalt;DEST104;"Domäne Bobbe";"rural area";background;9.8
+Saxony-Anhalt;DEST098;"Unterharz / Friedrichsbrunn";"rural regional";background;6.3
+Saxony-Anhalt;DEST077;Magdeburg/West;"urban area";background;9.6
+Saxony-Anhalt;DEST050;Halle/Nord;"urban area";background;9.9
+Saxony-Anhalt;DEST044;Halberstadt;"urban area";background;8.8
+Saxony-Anhalt;DEST002;Burg;"suburban area";background;9.6
+Saxony;DESN092;Dresden-Winckelmannstr.;"urban area";background;9.3
+Saxony;DESN079;Niesky;"rural regional";background;9
+Saxony;DESN059;Leipzig-West;"suburban area";background;8.3
+Schleswig-Holstein;DESH058;Lauenburg-Murjahnstraße;"urban area";background;8
+Schleswig-Holstein;DESH057;Kiel-Bremerskamp;"urban area";background;7
+Schleswig-Holstein;DESH056;Eggebek;"rural regional";background;6.9
+Schleswig-Holstein;DESH023;"Lübeck-St. Jürgen";"urban area";background;7.3
+Schleswig-Holstein;DESH015;Itzehoe;"urban area";background;8.1
+Schleswig-Holstein;DESH008;Bornhöved;"rural regional";background;6.8
+Saarland;DESL012;Saarbrücken-City;"urban area";background;9.7
+Rhineland-Palatinate;DERP053;Speyer-Nord;"suburban area";background;11
+Rhineland-Palatinate;DERP028;Westerwald-Neuhäusel;"rural area";background;7.4
+Rhineland-Palatinate;DERP022;"Bad Kreuznach-Bosenheimer Straße";"urban area";background;8.6
+Rhineland-Palatinate;DERP019;Kaiserslautern-Rathausplatz;"urban area";background;8.7
+Rhineland-Palatinate;DERP017;Pfälzerwald-Hortenkopf;"rural area";background;5.8
+Rhineland-Palatinate;DERP009;Mainz-Zitadelle;"urban area";background;9.9
+"North Rhine-Westphalia";DENW247;"Essen-Schuir (LANUV)";"suburban area";background;10
+"North Rhine-Westphalia";DENW179;Schwerte;"urban area";background;8.8
+"North Rhine-Westphalia";DENW114;Wuppertal-Langerfeld;"urban area";background;9.7
+"North Rhine-Westphalia";DENW096;Mönchengladbach-Rheydt;"suburban area";background;9.2
+"North Rhine-Westphalia";DENW095;Münster-Geist;"urban area";background;11
+"North Rhine-Westphalia";DENW094;Aachen-Burtscheid;"urban area";background;8.4
+"North Rhine-Westphalia";DENW081;Borken-Gemen;"rural near town";background;9.7
+"North Rhine-Westphalia";DENW078;Ratingen-Tiefenbroich;"suburban area";background;8.9
+"North Rhine-Westphalia";DENW071;Düsseldorf-Lörick;"urban area";background;9.7
+"North Rhine-Westphalia";DENW068;Soest-Ost;"rural near town";background;10
+"North Rhine-Westphalia";DENW067;Bielefeld-Ost;"urban area";background;11
+"North Rhine-Westphalia";DENW066;Nettetal-Kaldenkirchen;"rural near town";background;9.9
+"North Rhine-Westphalia";DENW065;"Netphen Rothaargebirge";"rural regional";background;6
+"North Rhine-Westphalia";DENW064;"Simmerath (Eifel)";"rural regional";background;6.1
+"North Rhine-Westphalia";DENW062;Bonn-Auerberg;"suburban area";background;8.7
+"North Rhine-Westphalia";DENW053;Köln-Chorweiler;"urban area";background;10
+"North Rhine-Westphalia";DENW038;Mülheim-Styrum;"urban area";background;11
+"North Rhine-Westphalia";DENW024;Essen-Vogelheim;"urban area";background;12
+"North Rhine-Westphalia";DENW022;Gelsenkirchen-Bismarck;"suburban area";background;13
+"North Rhine-Westphalia";DENW010;Unna-Königsborn;"suburban area";background;11
+"North Rhine-Westphalia";DENW008;Dortmund-Eving;"urban area";background;11
+"North Rhine-Westphalia";DENW006;Lünen-Niederaden;"suburban area";background;10
+"North Rhine-Westphalia";DENW002;Datteln-Hagem;"suburban area";background;12
+"Lower Saxony";DENI060;Wendland;"rural area";background;8
+"Lower Saxony";DENI054;Hannover;"urban area";background;8.4
+"Lower Saxony";DENI043;Emsland;"suburban area";background;8.4
+"Lower Saxony";DENI042;Göttingen;"suburban area";background;7.8
+"Lower Saxony";DENI041;Weserbergland;"suburban area";background;8.6
+"Lower Saxony";DENI038;Osnabrück;"urban area";background;8.6
+"Lower Saxony";DENI031;Jadebusen;"rural area";background;8.3
+"Lower Saxony";DENI016;Oker/Harlingerode;"suburban area";background;6.5
+"Mecklenburg-West Pomerania";DEMV028;Wismar;"urban area";background;9.9
+"Mecklenburg-West Pomerania";DEMV026;Garz;"rural area";background;8.6
+"Mecklenburg-West Pomerania";DEMV024;Leizen;"rural area";background;8.7
+"Mecklenburg-West Pomerania";DEMV021;Rostock-Warnemünde;"urban area";background;10
+"Mecklenburg-West Pomerania";DEMV019;Güstrow;"urban area";background;9.6
+"Mecklenburg-West Pomerania";DEMV012;Löcknitz;"rural area";background;10
+"Mecklenburg-West Pomerania";DEMV004;Gülzow;"rural area";background;9.1
+Hamburg;DEHH059;"Hamburg Wilhelmsburg";"urban area";background;10
+Hamburg;DEHH008;"Hamburg Sternschanze";"urban area";background;9.7
+Hesse;DEHE135;Frankfurt-Schwanheim;"suburban area";background;7.7
+Hesse;DEHE134;"Fulda Zentral";"urban area";background;8
+Hesse;DEHE046;"Bad Arolsen";"rural area";background;7.2
+Hesse;DEHE044;Limburg;"urban area";background;8.8
+Hesse;DEHE030;Marburg;"urban area";background;8.1
+Hesse;DEHE022;"Wiesbaden Süd";"urban area";background;8.8
+Hesse;DEHE018;Raunheim;"urban area";background;8.5
+Hesse;DEHE013;"Kassel Mitte";"urban area";background;8.6
+Hesse;DEHE008;"Frankfurt Ost";"urban area";background;10
+Hesse;DEHE005;Frankfurt-Höchst;"urban area";background;9.3
+Bremen;DEHB012;Bremen-Oslebshausen;"urban area";background;11
+Bremen;DEHB005;Bremerhaven-Hansastraße;"urban area";background;9.3
+Bremen;DEHB002;Bremen-Ost;"urban area";background;9.1
+Bavaria;DEBY187;Oettingen/Goethestraße;"suburban area";background;9.6
+Bavaria;DEBY124;"Burgbernheim/Grüne Au";"rural regional";background;9.4
+Bavaria;DEBY118;Passau/Stelzhamerstraße;"urban area";background;11
+Bavaria;DEBY109;Andechs/Rothenfeld;"rural regional";background;7.1
+Bavaria;DEBY099;Augsburg/LfU;"suburban area";background;9.4
+Bavaria;DEBY089;München/Johanneskirchen;"suburban area";background;8.9
+Bavaria;DEBY088;Trostberg/Schwimmbadstraße;"suburban area";background;9.6
+Bavaria;DEBY077;Würzburg/Kopfklinik;"suburban area";background;9.5
+Bavaria;DEBY075;"Weiden i.d.OPf./Nikolaistraße";"urban area";background;11
+Bavaria;DEBY072;Tiefenbach/Altenschneeberg;"rural regional";background;6
+Bavaria;DEBY067;"Schwandorf/Wackersdorfer Straße";"suburban area";background;9.8
+Bavaria;DEBY058;Nürnberg/Muggenhof;"urban area";background;12
+Bavaria;DEBY052;Neu-Ulm/Gabelsbergerstraße;"urban area";background;10
+Bavaria;DEBY049;"Neustadt a.d. Donau/Eining";"rural regional";background;9
+Bavaria;DEBY039;München/Lothstraße;"urban area";background;9.1
+Bavaria;DEBY031;"Kempten (Allgäu)/Westendstraße";"suburban area";background;8.9
+Bavaria;DEBY013;Mehring/Sportplatz;"rural regional";background;9.4
+Bavaria;DEBY012;"Burghausen/Marktler Straße";"suburban area";background;10
+Bavaria;DEBY009;Bamberg/Löwenbrücke;"urban area";background;10
+Bavaria;DEBY007;Augsburg/Bourges-Platz;"urban area";background;9.9
+Bavaria;DEBY005;Aschaffenburg/Bussardweg;"suburban area";background;9.3
+Bavaria;DEBY004;"Kleinwallstadt/Hofstetter Straße";"suburban area";background;10
+Bavaria;DEBY002;Arzberg/Egerstraße;"suburban area";background;10
+Baden-Württemberg;DEBW107;Tübingen;"suburban area";background;9
+Baden-Württemberg;DEBW087;"Schwäbische Alb";"rural regional";background;5.7
+Baden-Württemberg;DEBW084;Freiburg;"urban area";background;7.8
+Baden-Württemberg;DEBW081;Karlsruhe-Nordwest;"urban area";background;8.9
+Baden-Württemberg;DEBW052;Konstanz;"urban area";background;9
+Baden-Württemberg;DEBW033;Pforzheim;"urban area";background;8.3
+Baden-Württemberg;DEBW031;Schwarzwald-Süd;"rural regional";background;4.5
+Baden-Württemberg;DEBW027;Reutlingen;"urban area";background;8.4
+Baden-Württemberg;DEBW023;"Weil am Rhein";"suburban area";background;8.4
+Baden-Württemberg;DEBW019;Ulm;"urban area";background;8.9
+Baden-Württemberg;DEBW015;Heilbronn;"urban area";background;9.5
+Baden-Württemberg;DEBW013;"Stuttgart-Bad Cannstatt";"urban area";background;9.6
+Berlin;DEBE068;"Berlin Mitte";"urban area";background;12
+Berlin;DEBE051;"Berlin Buch";"suburban area";background;10
+Berlin;DEBE034;"Berlin Neukölln";"urban area";background;13
+Berlin;DEBE010;"Berlin Wedding";"urban area";background;12
+Brandenburg;DEBB109;Luckenwalde;"urban area";background;11
+Brandenburg;DEBB092;"Frankfurt (Oder)";"suburban area";background;10
+Brandenburg;DEBB086;Blankenfelde-Mahlow;"suburban area";background;9.7
+Brandenburg;DEBB083;Spremberg;"suburban area";background;11
+Brandenburg;DEBB075;"Potsdam, Groß Glienicke";"suburban area";background;9
+Brandenburg;DEBB067;Nauen;"suburban area";background;10
+Brandenburg;DEBB066;Spreewald;"rural regional";background;7.8
+Brandenburg;DEBB065;"Lütte (Belzig)";"rural regional";background;7.7
+Brandenburg;DEBB064;Cottbus;"urban area";background;11
+Brandenburg;DEBB063;Wittenberge;"suburban area";background;8.5
+Brandenburg;DEBB055;"Brandenburg a.d. Havel";"suburban area";background;9.5
+Brandenburg;DEBB053;"Hasenholz (Buckow)";"rural regional";background;9.6
+Brandenburg;DEBB048;Neuruppin;"suburban area";background;9.6
+Brandenburg;DEBB021;Potsdam-Zentrum;"urban area";background;9.9
+Rhineland-Palatinate;DERP047;Trier-Pfalzel;"suburban area";industry;11
+Rhineland-Palatinate;DERP003;Ludwigshafen-Mundenheim;"urban area";industry;13
+"North Rhine-Westphalia";DENW338;Duisburg-Bruckhausen;"urban area";industry;15
+"North Rhine-Westphalia";DENW182;Elsdorf-Berrendorf;"rural near town";industry;9.8
+"North Rhine-Westphalia";DENW181;Warstein;"urban area";industry;9
+"North Rhine-Westphalia";DENW116;"Krefeld (Hafen)";"suburban area";industry;15
+"North Rhine-Westphalia";DENW074;Niederzier;"rural near town";industry;11
+"Lower Saxony";DENI070;Salzgitter-Drütte;"rural area";industry;8.2
+"Lower Saxony";DENI053;Südoldenburg;"suburban area";industry;9.5
+"Mecklenburg-West Pomerania";DEMV031;"Rostock-Hohe Düne";"urban area";industry;11
+Hamburg;DEHH015;"Hamburg Veddel";"urban area";industry;11
+Bremen;DEHB013;Bremen-Hasenbüren;"rural regional";industry;9.5
+Baden-Württemberg;DEBW022;Kehl;"suburban area";industry;9.1
+Baden-Württemberg;DEBW005;Mannheim-Nord;"suburban area";industry;9
+Brandenburg;DEBB032;Eisenhüttenstadt;"suburban area";industry;12
+Brandenburg;DEBB029;"Schwedt (Oder)";"suburban area";industry;10
+Bavaria;DEBY200;Passau/Angerstr.;"urban area";traffic;11
+"Mecklenburg-West Pomerania";DEMV059;"Schwerin Obotr. West";"urban area";traffic;10
+"North Rhine-Westphalia";DENW415;"Oberhausen Duisburger Straße";"urban area";traffic;11
+Bavaria;DEBY198;"Ingolstadt/Münchener Str.";"urban area";traffic;12
+Thuringia;DETH091;"Mühlhausen Wanfrieder Str";"urban area";traffic;11
+Thuringia;DETH083;"Weimar Steubenstr.";"urban area";traffic;9.1
+Thuringia;DETH081;"Erfurt Heinrichstr";"urban area";traffic;9.3
+Thuringia;DETH043;"Erfurt Bergstr.";"urban area";traffic;9.7
+Saxony-Anhalt;DEST133;Halle/Riebeckplatz;"urban area";traffic;10
+Saxony-Anhalt;DEST112;Magdeburg/Guericke-Stra.;"urban area";traffic;11
+Saxony-Anhalt;DEST108;"Weißenfels/Am Krug";"urban area";traffic;10
+Saxony-Anhalt;DEST103;"Magdeburg Schleinufer";"urban area";traffic;10
+Saxony-Anhalt;DEST102;Halle/Paracelsusstr.;"urban area";traffic;12
+Saxony;DESN084;Dresden-Bergstr.;"urban area";traffic;11
+Saxony;DESN083;"Chemnitz-Leipziger Str.";"urban area";traffic;9.5
+Saxony;DESN061;Dresden-Nord;"urban area";traffic;10
+Saxony;DESN025;Leipzig-Mitte;"urban area";traffic;10
+Schleswig-Holstein;DESH053;"Lübeck Moislinger Allee";"urban area";traffic;8
+Schleswig-Holstein;DESH027;"Kiel-Bahnhofstr. Verk.";"urban area";traffic;8.9
+Schleswig-Holstein;DESH022;Flensburg;"urban area";traffic;7.8
+Rhineland-Palatinate;DERP046;Neuwied-Hermannstraße;"urban area";traffic;9.7
+Rhineland-Palatinate;DERP041;Ludwigshafen-Heinigstraße;"urban area";traffic;11
+Rhineland-Palatinate;DERP024;Koblenz-Friedrich-Ebert-Ring;"urban area";traffic;10
+Rhineland-Palatinate;DERP023;Worms-Hagenstraße;"urban area";traffic;11
+Rhineland-Palatinate;DERP010;Mainz-Parcusstraße;"urban area";traffic;11
+"North Rhine-Westphalia";DENW355;"Leverkusen Gustav-Heinemann-Straße";"urban area";traffic;9.4
+"North Rhine-Westphalia";DENW260;"Münster Weseler Straße";"urban area";traffic;10
+"North Rhine-Westphalia";DENW259;"Mönchengladbach Friedrich-Ebert-Straße";"urban area";traffic;10
+"North Rhine-Westphalia";DENW212;"Köln Turiner Straße";"urban area";traffic;9.5
+"North Rhine-Westphalia";DENW211;"Köln Clevischer Ring";"urban area";traffic;10
+"North Rhine-Westphalia";DENW208;"Gelsenkirchen Kurt-Schumacher-Straße";"urban area";traffic;12
+"North Rhine-Westphalia";DENW207;"Aachen Wilhelmstraße";"urban area";traffic;10
+"North Rhine-Westphalia";DENW206;"Solingen Konrad-Adenauer-Straße";"urban area";traffic;11
+"North Rhine-Westphalia";DENW200;"Bielefeld Detmolder Straße";"urban area";traffic;10
+"North Rhine-Westphalia";DENW188;"Oberhausen Mülheimer Straße 117";"urban area";traffic;12
+"North Rhine-Westphalia";DENW136;"Dortmund Brackeler Straße";"urban area";traffic;11
+"North Rhine-Westphalia";DENW133;"Hagen Graf-von-Galen-Ring";"urban area";traffic;11
+"North Rhine-Westphalia";DENW082;"Düsseldorf Corneliusstraße";"urban area";traffic;13
+"North Rhine-Westphalia";DENW043;"Essen-Ost Steeler Straße";"urban area";traffic;12
+"Lower Saxony";DENI143;"Oldenburg Heiligengeistwall";"urban area";traffic;10
+"Lower Saxony";DENI075;Braunschweig-Verkehr;"urban area";traffic;9.5
+"Lower Saxony";DENI068;Göttingen-Verkehr;"urban area";traffic;8.9
+"Lower Saxony";DENI067;Osnabrück-Verkehr;"urban area";traffic;11
+"Lower Saxony";DENI066;"Hildesheim Verkehr";"urban area";traffic;9.1
+"Lower Saxony";DENI048;"Hannover Verkehr";"urban area";traffic;10
+"Mecklenburg-West Pomerania";DEMV058;"Neubrandenburg Woldegker Straße";"urban area";traffic;10
+"Mecklenburg-West Pomerania";DEMV027;Wolgast-Oberwallstraße;"urban area";traffic;10
+"Mecklenburg-West Pomerania";DEMV025;Stralsund-Knieperdamm;"urban area";traffic;9.4
+"Mecklenburg-West Pomerania";DEMV022;Rostock-Holbeinplatz;"urban area";traffic;10
+"Mecklenburg-West Pomerania";DEMV020;"Rostock Am Strande";"urban area";traffic;11
+Hamburg;DEHH068;"Hamburg Habichtstraße";"urban area";traffic;10
+Hamburg;DEHH064;"Hamburg Kieler Straße";"urban area";traffic;11
+Hesse;DEHE131;"Limburg Schiede";"urban area";traffic;9.7
+Hesse;DEHE112;"Wiesbaden Schiersteiner Straße";"urban area";traffic;8.8
+Hesse;DEHE063;"Heppenheim Lehrstraße";"urban area";traffic;9.6
+Hesse;DEHE062;"Marburg Universitätsstraße";"urban area";traffic;8.4
+Hesse;DEHE061;"Gießen Westanlage";"urban area";traffic;9.1
+Hesse;DEHE059;"Fulda Petersberger Straße";"urban area";traffic;8.9
+Hesse;DEHE049;"Kassel Fünffensterstraße";"urban area";traffic;9.4
+Hesse;DEHE041;"Frankfurt Friedberger Landstraße";"urban area";traffic;9.2
+Hesse;DEHE040;"Darmstadt Hügelstraße";"urban area";traffic;8.4
+Hesse;DEHE037;"Wiesbaden Ringkirche";"urban area";traffic;8.7
+Bavaria;DEBY121;Oberaudorf/Inntal-Autobahn;"rural near town";traffic;10
+Bavaria;DEBY115;"München/Landshuter Allee";"urban area";traffic;11
+Bavaria;DEBY053;Nürnberg/Bahnhof;"urban area";traffic;11
+Bavaria;DEBY037;München/Stachus;"urban area";traffic;10
+Bavaria;DEBY035;"Lindau (Bodensee)/Friedrichshafener Straße";"urban area";traffic;10
+Bavaria;DEBY028;"Kelheim/Regensburger Straße";"urban area";traffic;10
+Bavaria;DEBY014;Coburg/Lossaustraße;"urban area";traffic;10
+Bavaria;DEBY001;Ansbach/Residenzstraße;"urban area";traffic;11
+Baden-Württemberg;DEBW156;"Schramberg Oberndorfer Straße";"urban area";traffic;8.7
+Baden-Württemberg;DEBW152;"Heilbronn Weinsberger Straße-Ost";"urban area";traffic;9.9
+Baden-Württemberg;DEBW147;"Reutlingen Lederstraße-Ost";"urban area";traffic;9.5
+Baden-Württemberg;DEBW125;"Pfinztal Karlsruher Straße";"suburban area";traffic;11
+Baden-Württemberg;DEBW122;"Freiburg Schwarzwaldstraße";"urban area";traffic;8.5
+Baden-Württemberg;DEBW118;"Stuttgart Am Neckartor";"urban area";traffic;10
+Baden-Württemberg;DEBW099;"Stuttgart Arnulf-Klett-Platz";"urban area";traffic;9.9
+Baden-Württemberg;DEBW098;"Mannheim Friedrichsring";"urban area";traffic;10
+Baden-Württemberg;DEBW080;"Karlsruhe Reinhold-Frank-Straße";"urban area";traffic;9.9
+Berlin;DEBE065;"Berlin Frankfurter Allee";"urban area";traffic;14
+Brandenburg;DEBB073;"Potsdam, Großbeerenstr.";"urban area";traffic;9.9
+Brandenburg;DEBB068;"Bernau, Lohmühlenstr.";"urban area";traffic;10
+Brandenburg;DEBB060;"Eberswalde, Breite Straße";"urban area";traffic;11
+Brandenburg;DEBB054;"Potsdam, Zeppelinstr.";"urban area";traffic;10
+Brandenburg;DEBB049;"Brandenburg, Neuendorfer Str.";"urban area";traffic;10
+Brandenburg;DEBB045;"Frankfurt (Oder), Leipziger Str.";"urban area";traffic;11
+Brandenburg;DEBB044;"Cottbus, Bahnhofstr.";"urban area";traffic;12
+
+"Source: German Environment Agency, https://www.umweltbundesamt.de/en/data/air/air-data/annual-tabulation (Status: 2023-09-25). All times are given in the time valid at the time of measurement (CET or CEST)."

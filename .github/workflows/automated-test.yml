@@ -26,4 +26,4 @@ jobs:
       run: chmod +x project/pipeline.sh
         
     - name: Run test.py
-      run: python project/test.py
+      run: chmod +x project/test.sh

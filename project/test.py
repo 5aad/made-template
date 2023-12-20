@@ -32,7 +32,7 @@ def LoadTest(table):
     current_directory = Path.cwd()
     parent_directory = current_directory.parent
     print(parent_directory)
-    database_path = parent_directory / f'data/{table}.sqlite'
+    database_path =  f'./data/{table}.sqlite'
     engine = create_engine(f"sqlite:///{database_path}")
     inspector = inspect(engine)
     if not inspector.has_table(table):

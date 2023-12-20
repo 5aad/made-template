@@ -23,7 +23,7 @@ jobs:
         pip install sqlalchemy pandas numpy
 
     - name: Run pipline.py
-      run: ./pipeline.sh
+      run: project/pipeline.sh
         
     - name: Run test.py
       run: python project/test.py

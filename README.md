@@ -1,42 +1,32 @@
-# Methods of Advanced Data Engineering Template Project
+# Project Plan
 
-This template project provides some structure for your open data project in the MADE module at FAU.
-This repository contains (a) a data science project that is developed by the student over the course of the semester, and (b) the exercises that are submitted over the course of the semester.
-Before you begin, make sure you have [Python](https://www.python.org/) and [Jayvee](https://github.com/jvalue/jayvee) installed. We will work with [Jupyter notebooks](https://jupyter.org/). The easiest way to do so is to set up [VSCode](https://code.visualstudio.com/) with the [Jupyter extension](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter).
+## Title
+Analyzing the impact of environmental factors on public health (Year 2022)
 
-
-## Project Work
-Your data engineering project will run alongside lectures during the semester. We will ask you to regularly submit project work as milestones so you can reasonably pace your work. All project work submissions **must** be placed in the `project` folder.
-
-### Exporting a Jupyter Notebook
-Jupyter Notebooks can be exported using `nbconvert` (`pip install nbconvert`). For example, to export the example notebook to html: `jupyter nbconvert --to html examples/final-report-example.ipynb --embed-images --output final-report.html`
+## Summary and Rationale
+This data science project aims to explore the relationship between hospital data of tuberculosis patients and the air quality in a regions of Bavaria and Brandenburg. Analyzing such data can provide valuable insights into potential correlations and
+factors that might influence the spread of tuberculosis and compare between two regions.
 
 
-## Exercises
-During the semester you will need to complete exercises, sometimes using [Python](https://www.python.org/), sometimes using [Jayvee](https://github.com/jvalue/jayvee). You **must** place your submission in the `exercises` folder in your repository and name them according to their number from one to five: `exercise<number from 1-5>.<jv or py>`.
+## Datasources
+### Datasource1: Deutchland Hospital Patients 
+* Metadata URL: https://www-genesis.destatis.de/genesis/online#astructure
+* Data URL: https://www-genesis.destatis.de/genesis/online?operation=abruftabelleBearbeiten&levelindex=0&levelid=1699407973798&auswahloperation=abruftabelleAuspraegungAuswaehlen&auswahlverzeichnis=ordnungsstruktur&auswahlziel=werteabruf&code=23131-0011&auswahltext=&nummer=2&variable=2&name=GES055&werteabruf=Werteabruf#abreadcrumb
+* Data Type: csv
 
-In regular intervalls, exercises will be given as homework to complete during the semester. We will divide you into two groups, one completing an exercise in Jayvee, the other in Python, switching each exercise. Details and deadlines will be discussed in the lecture, also see the [course schedule](https://made.uni1.de/). At the end of the semester, you will therefore have the following files in your repository:
+The dataset contains information about hospital patients, including their age, region, year of admission, gender, and whether they have confirmed tuberculosis (TB).
 
-1. `./exercises/exercise1.jv` or `./exercises/exercise1.py`
-2. `./exercises/exercise2.jv` or `./exercises/exercise2.py`
-3. `./exercises/exercise3.jv` or `./exercises/exercise3.py`
-4. `./exercises/exercise4.jv` or `./exercises/exercise4.py`
-5. `./exercises/exercise5.jv` or `./exercises/exercise5.py`
+### Datasource2: Deutchland Air Quality
+* Metadata URL: https://www.umweltbundesamt.de/en/data/air/air-data
+* Data URL: https://www.umweltbundesamt.de/api/air_data/v3/annualbalances/csv?component=1&year=2022&lang=en
+* Data Type: csv
 
-### Exercise Feedback
-We provide automated exercise feedback using a GitHub action (that is defined in `.github/workflows/exercise-feedback.yml`). 
+The dataset contains information about air quality, including dust particle type, dust particle size and station location.
 
-To view your exercise feedback, navigate to Actions -> Exercise Feedback in your repository.
+## Main Questions
+1. Do air quality metrics (such as PM2.5 and PM10) and the number of tuberculosis cases in the region have a statistically significant relationship?
+2. Is there a vulnerable population that is particularly vulnerable to the effects of poor air quality on tuberculosis risk, such as age groups or those with pre-existing health disorders, and how can this knowledge guide public health interventions?
+3. What are the potential peaks for tuberculosis incidence in connection to air quality, and how does the relationship between air quality and tuberculosis cases change throughout different geographic locations within the region?
 
-The exercise feedback is executed whenever you make a change in files in the `exercise` folder and push your local changes to the repository on GitHub. To see the feedback, open the latest GitHub Action run, open the `exercise-feedback` job and `Exercise Feedback` step. You should see command line output that contains output like this:
-
-```sh
-Found exercises/exercise1.jv, executing model...
-Found output file airports.sqlite, grading...
-Grading Exercise 1
-	Overall points 17 of 17
-	---
-	By category:
-		Shape: 4 of 4
-		Types: 13 of 13
-```
+## Final Report
+The final report [here](https://github.com/5aad/made-template/blob/main/project/report.ipynb).

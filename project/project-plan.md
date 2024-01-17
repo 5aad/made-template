@@ -2,7 +2,7 @@
 
 ## Title
 
-Analyzing the impact of environmental factors on public health
+Analyzing the impact of environmental factors on public health in (Year 2022)
 
 ## Main Question
 
@@ -12,7 +12,8 @@ Analyzing the impact of environmental factors on public health
 
 ## Description
 
-This data science project aims to explore the relationship between hospital data of tuberculosis patients in a region and that region's air quality data. Analyzing such data can provide valuable insights into potential correlations and factors that might influence the spread of tuberculosis.
+This data science project aims to explore the relationship between hospital data of tuberculosis patients and the air quality in a regions of Bavaria and Brandenburg. Analyzing such data can provide valuable insights into potential correlations and
+factors that might influence the spread of tuberculosis and compare between two regions.
 
 ## Datasources
 
@@ -43,3 +44,6 @@ The dataset contains information about air quality, including dust particle type
 [i1] : https://github.com/5aad/made-template/issues/1
 [i2] : https://github.com/5aad/made-template/issues/2
 [i3] : https://github.com/5aad/made-template/issues/3
+
+## Final Report
+The final report [here](https://github.com/5aad/made-template/blob/main/project/report.ipynb).
